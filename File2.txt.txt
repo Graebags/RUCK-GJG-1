@@ -1,1 +1,2 @@
 Text 2
+GJG new line 2 to GJG's File2
